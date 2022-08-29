@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **building up my skill sets and landing my first job in web dev!**
 
-- 🌱 I’m currently learning **Ruby/Rails, CSS, HTML, JavaScript, React**
+- 🌱 I’m currently learning **Ruby/Rails, CSS, HTML, JavaScript, React, Three.js, Typescript**
 
-- 📫 How to reach me **meghan@tinystorm.co**
+- 📫 How to reach me **meghan.h.johnson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
