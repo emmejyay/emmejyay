@@ -12,7 +12,7 @@
 - 📫 How to reach me **meghan.h.johnson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/meghanhjohnson/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
