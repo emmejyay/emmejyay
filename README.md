@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmejyay" alt="emmejyay" /></a> </p>
 
-- 🔭 I’m currently working on **building up my skill sets and landing my first job in web dev!**
+- 🔭 I’m currently working on **building up my skill sets and helping friends build out their business websites while looking to land my first job in web dev!**
 
 - 🌱 I’m currently learning **Ruby/Rails, CSS, HTML, JavaScript, React, Three.js, Typescript**
 
